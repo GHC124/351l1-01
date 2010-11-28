@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Administrator\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Administrator\Desktop\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.frmMain.resources
+C:\Users\Administrator\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Administrator\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\DH nam III 10_11\HK 1\Software Verification and Validation for Practitioners and Managers\Thuc Hanh\Bui Nam Khanh Duy Anh 080783\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\DH nam III 10_11\HK 1\Software Verification and Validation for Practitioners and Managers\Thuc Hanh\Bui Nam Khanh Duy Anh 080783\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\DH nam III 10_11\HK 1\Software Verification and Validation for Practitioners and Managers\Thuc Hanh\Bui Nam Khanh Duy Anh 080783\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\DH nam III 10_11\HK 1\Software Verification and Validation for Practitioners and Managers\Thuc Hanh\Bui Nam Khanh Duy Anh 080783\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\DH nam III 10_11\HK 1\Software Verification and Validation for Practitioners and Managers\Thuc Hanh\Bui Nam Khanh Duy Anh 080783\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DH nam III 10_11\HK 1\Software Verification and Validation for Practitioners and Managers\Thuc Hanh\Bui Nam Khanh Duy Anh 080783\Calculator\Calculator\obj\x86\Debug\Calculator.frmMain.resources
+E:\DH nam III 10_11\HK 1\Software Verification and Validation for Practitioners and Managers\Thuc Hanh\Bui Nam Khanh Duy Anh 080783\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\DH nam III 10_11\HK 1\Software Verification and Validation for Practitioners and Managers\Thuc Hanh\Bui Nam Khanh Duy Anh 080783\Calculator\Calculator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\DH nam III 10_11\HK 1\Software Verification and Validation for Practitioners and Managers\Thuc Hanh\Bui Nam Khanh Duy Anh 080783\Calculator\Calculator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
