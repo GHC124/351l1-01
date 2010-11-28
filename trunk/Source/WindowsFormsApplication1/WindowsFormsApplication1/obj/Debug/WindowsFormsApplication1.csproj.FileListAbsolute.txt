@@ -1,0 +1,8 @@
+E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Code_.resources
+E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
