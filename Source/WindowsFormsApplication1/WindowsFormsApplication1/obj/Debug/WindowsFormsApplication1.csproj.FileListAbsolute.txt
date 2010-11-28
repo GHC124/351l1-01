@@ -6,3 +6,11 @@ E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplicati
 E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 E:\RA SOAT\Thuc hanh nhom 4\Vinh\lqvinh.vnn_Project\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\RASOAT\351l1-01\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\RASOAT\351l1-01\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\RASOAT\351l1-01\Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\RASOAT\351l1-01\Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\RASOAT\351l1-01\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\RASOAT\351l1-01\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Code_.resources
+D:\RASOAT\351l1-01\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\RASOAT\351l1-01\Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
