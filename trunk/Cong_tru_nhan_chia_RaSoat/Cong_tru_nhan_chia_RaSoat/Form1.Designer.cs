@@ -40,6 +40,8 @@
             this.txtKetQua = new System.Windows.Forms.TextBox();
             this.btnNhapLai = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
+            this.cboxDau1 = new System.Windows.Forms.CheckBox();
+            this.cboxDau2 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // label1
@@ -78,7 +80,7 @@
             // 
             // btnCong
             // 
-            this.btnCong.Location = new System.Drawing.Point(15, 109);
+            this.btnCong.Location = new System.Drawing.Point(28, 109);
             this.btnCong.Name = "btnCong";
             this.btnCong.Size = new System.Drawing.Size(54, 23);
             this.btnCong.TabIndex = 4;
@@ -88,7 +90,7 @@
             // 
             // btnTru
             // 
-            this.btnTru.Location = new System.Drawing.Point(89, 109);
+            this.btnTru.Location = new System.Drawing.Point(102, 109);
             this.btnTru.Name = "btnTru";
             this.btnTru.Size = new System.Drawing.Size(54, 23);
             this.btnTru.TabIndex = 5;
@@ -98,7 +100,7 @@
             // 
             // btnNhan
             // 
-            this.btnNhan.Location = new System.Drawing.Point(163, 109);
+            this.btnNhan.Location = new System.Drawing.Point(176, 109);
             this.btnNhan.Name = "btnNhan";
             this.btnNhan.Size = new System.Drawing.Size(51, 23);
             this.btnNhan.TabIndex = 6;
@@ -108,7 +110,7 @@
             // 
             // btnChia
             // 
-            this.btnChia.Location = new System.Drawing.Point(234, 109);
+            this.btnChia.Location = new System.Drawing.Point(247, 109);
             this.btnChia.Name = "btnChia";
             this.btnChia.Size = new System.Drawing.Size(54, 23);
             this.btnChia.TabIndex = 7;
@@ -136,7 +138,7 @@
             // 
             // btnNhapLai
             // 
-            this.btnNhapLai.Location = new System.Drawing.Point(59, 203);
+            this.btnNhapLai.Location = new System.Drawing.Point(72, 203);
             this.btnNhapLai.Name = "btnNhapLai";
             this.btnNhapLai.Size = new System.Drawing.Size(75, 23);
             this.btnNhapLai.TabIndex = 10;
@@ -146,7 +148,7 @@
             // 
             // btnThoat
             // 
-            this.btnThoat.Location = new System.Drawing.Point(168, 203);
+            this.btnThoat.Location = new System.Drawing.Point(181, 203);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 23);
             this.btnThoat.TabIndex = 11;
@@ -154,11 +156,33 @@
             this.btnThoat.UseVisualStyleBackColor = true;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
+            // cboxDau1
+            // 
+            this.cboxDau1.AutoSize = true;
+            this.cboxDau1.Location = new System.Drawing.Point(276, 25);
+            this.cboxDau1.Name = "cboxDau1";
+            this.cboxDau1.Size = new System.Drawing.Size(40, 17);
+            this.cboxDau1.TabIndex = 12;
+            this.cboxDau1.Text = "+/-";
+            this.cboxDau1.UseVisualStyleBackColor = true;
+            // 
+            // cboxDau2
+            // 
+            this.cboxDau2.AutoSize = true;
+            this.cboxDau2.Location = new System.Drawing.Point(276, 57);
+            this.cboxDau2.Name = "cboxDau2";
+            this.cboxDau2.Size = new System.Drawing.Size(40, 17);
+            this.cboxDau2.TabIndex = 13;
+            this.cboxDau2.Text = "+/-";
+            this.cboxDau2.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(303, 238);
+            this.ClientSize = new System.Drawing.Size(329, 238);
+            this.Controls.Add(this.cboxDau2);
+            this.Controls.Add(this.cboxDau1);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnNhapLai);
             this.Controls.Add(this.txtKetQua);
@@ -193,6 +217,8 @@
         private System.Windows.Forms.TextBox txtKetQua;
         private System.Windows.Forms.Button btnNhapLai;
         private System.Windows.Forms.Button btnThoat;
+        private System.Windows.Forms.CheckBox cboxDau1;
+        private System.Windows.Forms.CheckBox cboxDau2;
     }
 }
 

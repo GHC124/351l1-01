@@ -15,7 +15,7 @@ namespace Cong_tru_nhan_chia_RaSoat
         {
             InitializeComponent();
         }
-
+        private double so1, so2;
         private void txtSo1_TextChanged(object sender, EventArgs e)
         {
             if (txtSo1.Text.Length != 0 && !char.IsDigit(txtSo1.Text[txtSo1.Text.Length - 1]))
@@ -42,7 +42,15 @@ namespace Cong_tru_nhan_chia_RaSoat
             if (txtSo1.Text.Length == 0 || txtSo2.Text.Length == 0)
                 MessageBox.Show("Chưa nhập số");
             else
-                txtKetQua.Text = Convert.ToString(Convert.ToDouble(txtSo1.Text) + Convert.ToDouble(txtSo2.Text));
+            {
+                so1 = Convert.ToDouble(txtSo1.Text);
+                so2 = Convert.ToDouble(txtSo2.Text);
+                if (cboxDau1.Checked == true)
+                    so1 = so1 * -1;
+                if (cboxDau2.Checked == true)
+                    so2 = so2 * -1;
+                txtKetQua.Text = Convert.ToString(so1 + so2);
+            }
         }
 
         private void btnTru_Click(object sender, EventArgs e)
@@ -50,7 +58,15 @@ namespace Cong_tru_nhan_chia_RaSoat
             if (txtSo1.Text.Length == 0 || txtSo2.Text.Length == 0)
                 MessageBox.Show("Chưa nhập số");
             else
-                txtKetQua.Text = Convert.ToString(Convert.ToDouble(txtSo1.Text) - Convert.ToDouble(txtSo2.Text));
+            {
+                so1 = Convert.ToDouble(txtSo1.Text);
+                so2 = Convert.ToDouble(txtSo2.Text);
+                if (cboxDau1.Checked == true)
+                    so1 = so1 * -1;
+                if (cboxDau2.Checked == true)
+                    so2 = so2 * -1;
+                txtKetQua.Text = Convert.ToString(so1 - so2);
+            }
         }
 
         private void btnNhan_Click(object sender, EventArgs e)
@@ -58,7 +74,15 @@ namespace Cong_tru_nhan_chia_RaSoat
             if (txtSo1.Text.Length == 0 || txtSo2.Text.Length == 0)
                 MessageBox.Show("Chưa nhập số");
             else
-                txtKetQua.Text = Convert.ToString(Convert.ToDouble(txtSo1.Text) * Convert.ToDouble(txtSo2.Text));
+            {
+                so1 = Convert.ToDouble(txtSo1.Text);
+                so2 = Convert.ToDouble(txtSo2.Text);
+                if (cboxDau1.Checked == true)
+                    so1 = so1 * -1;
+                if (cboxDau2.Checked == true)
+                    so2 = so2 * -1;
+                txtKetQua.Text = Convert.ToString(so1 * so2);
+            }
         }
 
         private void btnChia_Click(object sender, EventArgs e)
@@ -66,7 +90,15 @@ namespace Cong_tru_nhan_chia_RaSoat
             if (txtSo1.Text.Length == 0 || txtSo2.Text.Length == 0)
                 MessageBox.Show("Chưa nhập số");
             else
-                txtKetQua.Text = Convert.ToString(Convert.ToDouble(txtSo1.Text) / Convert.ToDouble(txtSo2.Text));
+            {
+                so1 = Convert.ToDouble(txtSo1.Text);
+                so2 = Convert.ToDouble(txtSo2.Text);
+                if (cboxDau1.Checked == true)
+                    so1 = so1 * -1;
+                if (cboxDau2.Checked == true)
+                    so2 = so2 * -1;
+                txtKetQua.Text = Convert.ToString(so1 / so2);
+            }
         }
 
         private void btnNhapLai_Click(object sender, EventArgs e)
@@ -74,6 +106,8 @@ namespace Cong_tru_nhan_chia_RaSoat
             txtSo1.Text = "";
             txtSo2.Text = "";
             txtKetQua.Text = "";
+            cboxDau1.Checked = false;
+            cboxDau2.Checked = false;
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
