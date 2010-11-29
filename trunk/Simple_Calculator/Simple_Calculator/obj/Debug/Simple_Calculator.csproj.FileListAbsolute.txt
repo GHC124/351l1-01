@@ -1,0 +1,16 @@
+C:\Users\HNam\Documents\Visual Studio 2008\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HNam\Documents\Visual Studio 2008\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.frmTinh.resources
+C:\Users\HNam\Documents\Visual Studio 2008\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\HNam\Documents\Visual Studio 2008\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.GenerateResource.Cache
+C:\Users\HNam\Documents\Visual Studio 2008\Projects\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe
+C:\Users\HNam\Documents\Visual Studio 2008\Projects\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.pdb
+C:\Users\HNam\Documents\Visual Studio 2008\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.exe
+C:\Users\HNam\Documents\Visual Studio 2008\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.pdb
+C:\Users\HNam\Documents\Visual Studio 2010\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.exe
+C:\Users\HNam\Documents\Visual Studio 2010\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.pdb
+C:\Users\HNam\Documents\Visual Studio 2010\Projects\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe
+C:\Users\HNam\Documents\Visual Studio 2010\Projects\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.pdb
+C:\Users\HNam\Documents\Visual Studio 2010\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HNam\Documents\Visual Studio 2010\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.frmTinh.resources
+C:\Users\HNam\Documents\Visual Studio 2010\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\HNam\Documents\Visual Studio 2010\Projects\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.GenerateResource.Cache
