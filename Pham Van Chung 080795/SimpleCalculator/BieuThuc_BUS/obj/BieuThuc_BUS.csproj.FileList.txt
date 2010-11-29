@@ -1,0 +1,9 @@
+bin\Debug\BieuThuc_BUS.dll
+bin\Debug\BieuThuc_BUS.pdb
+bin\Debug\BieuThuc_DAO.dll
+bin\Debug\BieuThuc_DTO.dll
+bin\Debug\BieuThuc_DTO.pdb
+bin\Debug\BieuThuc_DAO.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BieuThuc_BUS.dll
+obj\Debug\BieuThuc_BUS.pdb

@@ -1,0 +1,14 @@
+bin\Debug\SimpleCalculartor.exe
+bin\Debug\SimpleCalculartor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleCalculartor.Form_Main.resources
+obj\Debug\SimpleCalculartor.Properties.Resources.resources
+obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+obj\Debug\SimpleCalculartor.exe
+obj\Debug\SimpleCalculartor.pdb
+bin\Debug\BieuThuc_BUS.dll
+bin\Debug\BieuThuc_BUS.pdb
+bin\Debug\BieuThuc_DAO.dll
+bin\Debug\BieuThuc_DTO.dll
+bin\Debug\BieuThuc_DAO.pdb
+bin\Debug\BieuThuc_DTO.pdb
