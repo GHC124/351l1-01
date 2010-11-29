@@ -1,0 +1,47 @@
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.exe
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.pdb
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Form1.resources
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Properties.Resources.resources
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.exe
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.pdb
+C:\Users\Lap_Trinh\Desktop\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.exe
+C:\Users\Lap_Trinh\Desktop\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.pdb
+C:\Users\Lap_Trinh\Desktop\maytinhdongian\maytinhdongian\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lap_Trinh\Desktop\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Form1.resources
+C:\Users\Lap_Trinh\Desktop\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Properties.Resources.resources
+C:\Users\Lap_Trinh\Desktop\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lap_Trinh\Desktop\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lap_Trinh\Desktop\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.exe
+C:\Users\Lap_Trinh\Desktop\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.pdb
+F:\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.exe
+F:\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.pdb
+F:\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.exe
+F:\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.pdb
+F:\maytinhdongian\maytinhdongian\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Form1.resources
+F:\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Properties.Resources.resources
+F:\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Users\Nando\Desktop\New folder\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.exe
+F:\Users\Nando\Desktop\New folder\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.pdb
+F:\Users\Nando\Desktop\New folder\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.exe
+F:\Users\Nando\Desktop\New folder\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.pdb
+F:\Users\Nando\Desktop\New folder\maytinhdongian\maytinhdongian\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Nando\Desktop\New folder\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Form1.resources
+F:\Users\Nando\Desktop\New folder\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Properties.Resources.resources
+F:\Users\Nando\Desktop\New folder\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Users\Nando\Desktop\New folder\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Users\Nando\Desktop\New folder (2)\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.exe
+F:\Users\Nando\Desktop\New folder (2)\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.pdb
+F:\Users\Nando\Desktop\New folder (2)\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.exe
+F:\Users\Nando\Desktop\New folder (2)\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.pdb
+F:\Users\Nando\Desktop\New folder (2)\maytinhdongian\maytinhdongian\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Nando\Desktop\New folder (2)\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Form1.resources
+F:\Users\Nando\Desktop\New folder (2)\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Properties.Resources.resources
+F:\Users\Nando\Desktop\New folder (2)\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Users\Nando\Desktop\New folder (2)\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Users\Nando\Desktop\New folder (2)\HuynhVanAnhMinh_080851\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.exe
+F:\Users\Nando\Desktop\New folder (2)\HuynhVanAnhMinh_080851\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.pdb
