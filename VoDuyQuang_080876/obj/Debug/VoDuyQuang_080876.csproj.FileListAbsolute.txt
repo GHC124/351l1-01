@@ -1,0 +1,8 @@
+C:\Users\Quang\Desktop\VoDuyQuang_080876\VoDuyQuang_080876\bin\Debug\VoDuyQuang_080876.exe
+C:\Users\Quang\Desktop\VoDuyQuang_080876\VoDuyQuang_080876\bin\Debug\VoDuyQuang_080876.pdb
+C:\Users\Quang\Desktop\VoDuyQuang_080876\VoDuyQuang_080876\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Quang\Desktop\VoDuyQuang_080876\VoDuyQuang_080876\obj\Debug\VoDuyQuang_080876.Form1.resources
+C:\Users\Quang\Desktop\VoDuyQuang_080876\VoDuyQuang_080876\obj\Debug\VoDuyQuang_080876.Properties.Resources.resources
+C:\Users\Quang\Desktop\VoDuyQuang_080876\VoDuyQuang_080876\obj\Debug\VoDuyQuang_080876.csproj.GenerateResource.Cache
+C:\Users\Quang\Desktop\VoDuyQuang_080876\VoDuyQuang_080876\obj\Debug\VoDuyQuang_080876.exe
+C:\Users\Quang\Desktop\VoDuyQuang_080876\VoDuyQuang_080876\obj\Debug\VoDuyQuang_080876.pdb
