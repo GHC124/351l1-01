@@ -1,0 +1,8 @@
+C:\Users\Duy_An\Documents\Visual Studio 2008\Projects\Cong_tru_nhan_chia_RaSoat\Cong_tru_nhan_chia_RaSoat\bin\Debug\Cong_tru_nhan_chia_RaSoat.exe
+C:\Users\Duy_An\Documents\Visual Studio 2008\Projects\Cong_tru_nhan_chia_RaSoat\Cong_tru_nhan_chia_RaSoat\bin\Debug\Cong_tru_nhan_chia_RaSoat.pdb
+C:\Users\Duy_An\Documents\Visual Studio 2008\Projects\Cong_tru_nhan_chia_RaSoat\Cong_tru_nhan_chia_RaSoat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Duy_An\Documents\Visual Studio 2008\Projects\Cong_tru_nhan_chia_RaSoat\Cong_tru_nhan_chia_RaSoat\obj\Debug\Cong_tru_nhan_chia_RaSoat.Form1.resources
+C:\Users\Duy_An\Documents\Visual Studio 2008\Projects\Cong_tru_nhan_chia_RaSoat\Cong_tru_nhan_chia_RaSoat\obj\Debug\Cong_tru_nhan_chia_RaSoat.Properties.Resources.resources
+C:\Users\Duy_An\Documents\Visual Studio 2008\Projects\Cong_tru_nhan_chia_RaSoat\Cong_tru_nhan_chia_RaSoat\obj\Debug\Cong_tru_nhan_chia_RaSoat.csproj.GenerateResource.Cache
+C:\Users\Duy_An\Documents\Visual Studio 2008\Projects\Cong_tru_nhan_chia_RaSoat\Cong_tru_nhan_chia_RaSoat\obj\Debug\Cong_tru_nhan_chia_RaSoat.exe
+C:\Users\Duy_An\Documents\Visual Studio 2008\Projects\Cong_tru_nhan_chia_RaSoat\Cong_tru_nhan_chia_RaSoat\obj\Debug\Cong_tru_nhan_chia_RaSoat.pdb
