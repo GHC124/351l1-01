@@ -1,0 +1,8 @@
+C:\Users\thong\Documents\Visual Studio 2008\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\thong\Documents\Visual Studio 2008\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\thong\Documents\Visual Studio 2008\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\thong\Documents\Visual Studio 2008\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\thong\Documents\Visual Studio 2008\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\thong\Documents\Visual Studio 2008\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\thong\Documents\Visual Studio 2008\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\thong\Documents\Visual Studio 2008\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
