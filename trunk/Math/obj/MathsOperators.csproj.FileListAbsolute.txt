@@ -1,0 +1,7 @@
+E:\The Vuong\HSU\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.exe
+E:\The Vuong\HSU\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.pdb
+E:\The Vuong\HSU\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\bin\Debug\MathsOperators.exe
+E:\The Vuong\HSU\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\bin\Debug\MathsOperators.pdb
+E:\The Vuong\HSU\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\ResolveAssemblyReference.cache
+E:\The Vuong\HSU\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.Form1.resources
+E:\The Vuong\HSU\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+E:\HK101\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.exe
+E:\HK101\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.pdb
+E:\HK101\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\bin\Debug\MathsOperators.exe
+E:\HK101\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\bin\Debug\MathsOperators.pdb
+E:\HK101\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\ResolveAssemblyReference.cache
+E:\HK101\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.Form1.resources
+E:\HK101\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\HK101\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.exe
+E:\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.pdb
+E:\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\bin\Debug\MathsOperators.exe
+E:\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\bin\Debug\MathsOperators.pdb
+E:\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\MathsOperators.Form1.resources
+E:\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\CSharp\Tung buoc hoc lap trinh Visual C#.net\Chapter 2\MathsOperators\obj\Debug\GenerateResource-ResGen.write.1.tlog
