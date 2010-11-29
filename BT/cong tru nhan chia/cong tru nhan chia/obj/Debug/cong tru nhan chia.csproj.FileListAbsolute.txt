@@ -1,0 +1,9 @@
+E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia\bin\Debug\cong tru nhan chia.exe
+E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia\bin\Debug\cong tru nhan chia.pdb
+E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia\obj\Debug\ResolveAssemblyReference.cache
+E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia\obj\Debug\cong_tru_nhan_chia.Form1.resources
+E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia\obj\Debug\cong_tru_nhan_chia.Properties.Resources.resources
+E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia\obj\Debug\cong tru nhan chia.exe
+E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia\obj\Debug\cong tru nhan chia.pdb
+E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia\obj\Debug\GenerateResource-ResGen.write.1.tlog

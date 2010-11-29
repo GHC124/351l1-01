@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cong tru nhan chia">
+</Property><Property Name="Solution File" Value="E:\hoc tap\C#\cong tru nhan chia\cong tru nhan chia.sln">
+</Property><Property Name="Date" Value="Monday, November 29, 2010">
+</Property><Property Name="Time" Value="9:26 AM">
+</Property></Properties><Event ErrorLevel="0" Project="cong tru nhan chia" Source="cong tru nhan chia\cong tru nhan chia.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="cong tru nhan chia" Source="cong tru nhan chia\cong tru nhan chia.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cong tru nhan chia.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="cong tru nhan chia.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cong tru nhan chia" Source="cong tru nhan chia\cong tru nhan chia.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
