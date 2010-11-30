@@ -261,6 +261,16 @@ namespace WindowsFormsApplication1
             textBox1.Text = "";
         }
 
+        private void button18_Click_1(object sender, EventArgs e)
+        {
+            string b;
+            b = textBox1.Text;
+            textBox1.Text = "";
+            int n = b.Length;                               //Tính số ký tự =n
+            for (int i = 0; i < n - 1; i++)                 //in ra n-1 kí tự( xóa 1 kí tự)
+                textBox1.Text = textBox1.Text + (char)b[i];
+        }
+
         
     }
 }
