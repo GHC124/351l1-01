@@ -148,7 +148,7 @@ namespace WindowsFormsApplication1
 
         private void button11_Click(object sender, EventArgs e)//dau +
         {
-            if (textBox1.Text == "+" || textBox1.Text == "-" || textBox1.Text == "*" || textBox1.Text == "/")
+            if (textBox1.Text == "+" || textBox1.Text == "-" || textBox1.Text == "*" || textBox1.Text == "/"||textBox1.Text=="")
             {
                 pt = '+';
                 textBox1.Text = "+";
@@ -170,7 +170,7 @@ namespace WindowsFormsApplication1
 
         private void button12_Click(object sender, EventArgs e)//dau -
         {
-            if (textBox1.Text == "+" || textBox1.Text == "-" || textBox1.Text == "*" || textBox1.Text == "/")
+            if (textBox1.Text == "+" || textBox1.Text == "-" || textBox1.Text == "*" || textBox1.Text == "/"||textBox1.Text=="")
             {
                 pt = '-';
                 textBox1.Text = "-";
@@ -192,7 +192,7 @@ namespace WindowsFormsApplication1
 
         private void button13_Click(object sender, EventArgs e)//dau *
         {
-            if (textBox1.Text == "+" || textBox1.Text == "-" || textBox1.Text == "*" || textBox1.Text == "/")
+            if (textBox1.Text == "+" || textBox1.Text == "-" || textBox1.Text == "*" || textBox1.Text == "/" || textBox1.Text == "")
             {
                 pt = '*';
                 textBox1.Text = "*";
@@ -214,7 +214,7 @@ namespace WindowsFormsApplication1
 
         private void button14_Click(object sender, EventArgs e)//dau /
         {
-            if (textBox1.Text == "+" || textBox1.Text == "-" || textBox1.Text == "*" || textBox1.Text == "/")
+            if (textBox1.Text == "+" || textBox1.Text == "-" || textBox1.Text == "*" || textBox1.Text == "/" || textBox1.Text == "")
             {
                 pt = '/';
                 textBox1.Text = "/";
@@ -236,11 +236,15 @@ namespace WindowsFormsApplication1
 
         private void button15_Click(object sender, EventArgs e)//dau bang
         {
-            a = Convert.ToSingle(textBox1.Text);
-            tinh();
-            textBox1.Text = Convert.ToString(kq);
-            kt = 1;
-            kq = 0;
+            if (textBox1.Text == "+" || textBox1.Text == "-" || textBox1.Text == "*" || textBox1.Text == "/" || textBox1.Text == "") ;
+            else
+            {
+                a = Convert.ToSingle(textBox1.Text);
+                tinh();
+                textBox1.Text = Convert.ToString(kq);
+                kt = 1;
+                kq = 0;
+            }
         }
 
         private void button18_Click(object sender, EventArgs e)
@@ -250,6 +254,11 @@ namespace WindowsFormsApplication1
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             MessageBox.Show("Chương trình calculator beta 2\nTrần Công Vương\nMSSV: 080926", "About", MessageBoxButtons.OK);
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
         }
 
         
