@@ -68,7 +68,7 @@
             this.txtSo1.Name = "txtSo1";
             this.txtSo1.Size = new System.Drawing.Size(206, 20);
             this.txtSo1.TabIndex = 2;
-            this.txtSo1.TextChanged += new System.EventHandler(this.txtSo1_TextChanged);
+            this.txtSo1.TextChanged += new System.EventHandler(this.txtSo1_TextChanged_1);
             // 
             // txtSo2
             // 
@@ -76,7 +76,7 @@
             this.txtSo2.Name = "txtSo2";
             this.txtSo2.Size = new System.Drawing.Size(206, 20);
             this.txtSo2.TabIndex = 3;
-            this.txtSo2.TextChanged += new System.EventHandler(this.txtSo2_TextChanged);
+            this.txtSo2.TextChanged += new System.EventHandler(this.txtSo2_TextChanged_1);
             // 
             // btnCong
             // 
@@ -86,7 +86,7 @@
             this.btnCong.TabIndex = 4;
             this.btnCong.Text = "Cộng";
             this.btnCong.UseVisualStyleBackColor = true;
-            this.btnCong.Click += new System.EventHandler(this.btnCong_Click);
+            this.btnCong.Click += new System.EventHandler(this.btnCong_Click_1);
             // 
             // btnTru
             // 
@@ -96,7 +96,7 @@
             this.btnTru.TabIndex = 5;
             this.btnTru.Text = "Trừ";
             this.btnTru.UseVisualStyleBackColor = true;
-            this.btnTru.Click += new System.EventHandler(this.btnTru_Click);
+            this.btnTru.Click += new System.EventHandler(this.btnTru_Click_1);
             // 
             // btnNhan
             // 
@@ -106,7 +106,7 @@
             this.btnNhan.TabIndex = 6;
             this.btnNhan.Text = "Nhân";
             this.btnNhan.UseVisualStyleBackColor = true;
-            this.btnNhan.Click += new System.EventHandler(this.btnNhan_Click);
+            this.btnNhan.Click += new System.EventHandler(this.btnNhan_Click_1);
             // 
             // btnChia
             // 
@@ -116,7 +116,7 @@
             this.btnChia.TabIndex = 7;
             this.btnChia.Text = "Chia";
             this.btnChia.UseVisualStyleBackColor = true;
-            this.btnChia.Click += new System.EventHandler(this.btnChia_Click);
+            this.btnChia.Click += new System.EventHandler(this.btnChia_Click_1);
             // 
             // label3
             // 
