@@ -240,6 +240,7 @@ namespace WindowsFormsApplication1
             tinh();
             textBox1.Text = Convert.ToString(kq);
             kt = 1;
+            kq = 0;
         }
 
         private void button18_Click(object sender, EventArgs e)
