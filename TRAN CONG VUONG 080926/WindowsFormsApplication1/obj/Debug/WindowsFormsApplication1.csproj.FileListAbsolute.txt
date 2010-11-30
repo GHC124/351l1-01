@@ -6,3 +6,11 @@ C:\Users\pek lun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\
 C:\Users\pek lun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
 C:\Users\pek lun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\pek lun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\RASOAT\351l1-01\TRAN CONG VUONG 080926\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\RASOAT\351l1-01\TRAN CONG VUONG 080926\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\RASOAT\351l1-01\TRAN CONG VUONG 080926\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\RASOAT\351l1-01\TRAN CONG VUONG 080926\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\RASOAT\351l1-01\TRAN CONG VUONG 080926\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\RASOAT\351l1-01\TRAN CONG VUONG 080926\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\RASOAT\351l1-01\TRAN CONG VUONG 080926\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\RASOAT\351l1-01\TRAN CONG VUONG 080926\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

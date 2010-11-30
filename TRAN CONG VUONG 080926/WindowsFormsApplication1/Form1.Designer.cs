@@ -44,6 +44,10 @@
             this.button14 = new System.Windows.Forms.Button();
             this.button15 = new System.Windows.Forms.Button();
             this.button16 = new System.Windows.Forms.Button();
+            this.button13 = new System.Windows.Forms.Button();
+            this.button17 = new System.Windows.Forms.Button();
+            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+            this.button18 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -187,7 +191,7 @@
             // 
             this.button15.Location = new System.Drawing.Point(164, 188);
             this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(73, 62);
+            this.button15.Size = new System.Drawing.Size(66, 62);
             this.button15.TabIndex = 15;
             this.button15.Text = "=";
             this.button15.UseVisualStyleBackColor = true;
@@ -203,11 +207,55 @@
             this.button16.UseVisualStyleBackColor = true;
             this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
+            // button13
+            // 
+            this.button13.Location = new System.Drawing.Point(14, 227);
+            this.button13.Name = "button13";
+            this.button13.Size = new System.Drawing.Size(58, 23);
+            this.button13.TabIndex = 18;
+            this.button13.Text = "*";
+            this.button13.UseVisualStyleBackColor = true;
+            this.button13.Click += new System.EventHandler(this.button13_Click);
+            // 
+            // button17
+            // 
+            this.button17.Location = new System.Drawing.Point(14, 137);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(58, 23);
+            this.button17.TabIndex = 19;
+            this.button17.Text = "C";
+            this.button17.UseVisualStyleBackColor = true;
+            // 
+            // linkLabel1
+            // 
+            this.linkLabel1.AutoSize = true;
+            this.linkLabel1.Location = new System.Drawing.Point(196, 265);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(35, 13);
+            this.linkLabel1.TabIndex = 20;
+            this.linkLabel1.TabStop = true;
+            this.linkLabel1.Text = "About";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
+            // 
+            // button18
+            // 
+            this.button18.Location = new System.Drawing.Point(199, 12);
+            this.button18.Name = "button18";
+            this.button18.Size = new System.Drawing.Size(32, 19);
+            this.button18.TabIndex = 21;
+            this.button18.Text = "<-";
+            this.button18.UseVisualStyleBackColor = true;
+            this.button18.Click += new System.EventHandler(this.button18_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(249, 262);
+            this.ClientSize = new System.Drawing.Size(243, 287);
+            this.Controls.Add(this.button18);
+            this.Controls.Add(this.linkLabel1);
+            this.Controls.Add(this.button17);
+            this.Controls.Add(this.button13);
             this.Controls.Add(this.button16);
             this.Controls.Add(this.button15);
             this.Controls.Add(this.button14);
@@ -249,6 +297,10 @@
         private System.Windows.Forms.Button button14;
         private System.Windows.Forms.Button button15;
         private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.Button button13;
+        private System.Windows.Forms.Button button17;
+        private System.Windows.Forms.LinkLabel linkLabel1;
+        private System.Windows.Forms.Button button18;
     }
 }
 
