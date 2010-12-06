@@ -1,0 +1,9 @@
+D:\congtrunhanchia\congtrunhanchia\congtrunhanchia\bin\Debug\congtrunhanchia.exe
+D:\congtrunhanchia\congtrunhanchia\congtrunhanchia\bin\Debug\congtrunhanchia.pdb
+D:\congtrunhanchia\congtrunhanchia\congtrunhanchia\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\congtrunhanchia\congtrunhanchia\congtrunhanchia\obj\x86\Debug\congtrunhanchia.Form1.resources
+D:\congtrunhanchia\congtrunhanchia\congtrunhanchia\obj\x86\Debug\congtrunhanchia.Properties.Resources.resources
+D:\congtrunhanchia\congtrunhanchia\congtrunhanchia\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\congtrunhanchia\congtrunhanchia\congtrunhanchia\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\congtrunhanchia\congtrunhanchia\congtrunhanchia\obj\x86\Debug\congtrunhanchia.exe
+D:\congtrunhanchia\congtrunhanchia\congtrunhanchia\obj\x86\Debug\congtrunhanchia.pdb
