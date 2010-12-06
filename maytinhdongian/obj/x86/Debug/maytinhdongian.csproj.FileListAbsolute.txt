@@ -1,0 +1,9 @@
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.exe
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.pdb
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Form1.resources
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.Properties.Resources.resources
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.exe
+c:\users\lap_trinh\documents\visual studio 2010\Projects\maytinhdongian\maytinhdongian\obj\x86\Debug\maytinhdongian.pdb
